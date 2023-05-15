@@ -11,7 +11,7 @@ mkdocs==1.2.3
 mkdocs_material_extensions==1.0.3
 packaging==21.3
 Pygments==2.11.2
-pymdown_extensions==9.2
+pymdown_extensions==10.0
 pyparsing==3.0.7
 python_dateutil==2.8.2
 PyYAML==6.0
